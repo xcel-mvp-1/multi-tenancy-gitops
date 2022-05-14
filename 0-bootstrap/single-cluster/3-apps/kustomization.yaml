@@ -1,5 +1,5 @@
 resources:
-#- argocd/ace/cicd.yaml
+- argocd/ace/cicd.yaml
 #- argocd/ace/dev.yaml
 #- argocd/ace/stage.yaml
 #- argocd/ace/prod.yaml
@@ -9,7 +9,7 @@ resources:
 #- argocd/mq/stage.yaml
 #- argocd/mq/prod.yaml
 
-- argocd/apic/cicd.yaml
+# - argocd/apic/cicd.yaml
 #- argocd/apic/dev.yaml
 #- argocd/apic/stage.yaml
 #- argocd/apic/prod.yaml
